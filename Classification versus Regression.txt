@@ -1,0 +1,3 @@
+## Classification versus Regression 
+Your goal is to identify students who might need early intervention - which type of supervised machine learning problem is this, classification or regression? Why?
+It is a classification problem because we want to model a discrete variable, which labels whether a student passes or not the final exam. 
